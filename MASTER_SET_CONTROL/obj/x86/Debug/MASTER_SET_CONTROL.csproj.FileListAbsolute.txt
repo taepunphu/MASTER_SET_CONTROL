@@ -1,0 +1,142 @@
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.FrmMain.resources
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Properties.Resources.resources
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csproj.GenerateResource.Cache
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csprojResolveAssemblyReference.cache
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\MySql.Data.dll
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmManage.resources
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmMember.resources
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.PleaseWait.resources
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\office.dll
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\office.xml
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.config
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.application
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.pdb
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.application
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe
+D:\Users\5020004162\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.config
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\MySql.Data.dll
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\office.dll
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\office.xml
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csprojResolveAssemblyReference.cache
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.FrmMain.resources
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmManage.resources
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmMember.resources
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.PleaseWait.resources
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Properties.Resources.resources
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csproj.GenerateResource.Cache
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\Trace\Desktop\Sudrak SourceCode Folder\MASTER_SET_CONTROL\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.config
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csproj.GenerateResource.Cache
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\bin\Debug\MySql.Data.dll
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmManage.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmMember.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.PleaseWait.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Properties.Resources.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.select_db_form.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Form1.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.config
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\MySql.Data.dll
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Form1.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmManage.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmMember.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.PleaseWait.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Properties.Resources.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.select_db_form.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csproj.GenerateResource.Cache
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\itextsharp.dll
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmPdfExport.resources
+C:\Users\alpha\Desktop\Project\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmloadpdf.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.config
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Form1.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmloadpdf.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmManage.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmMember.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmPdfExport.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.PleaseWait.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Properties.Resources.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.select_db_form.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csproj.GenerateResource.Cache
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\bin\Debug\MySql.Data.dll
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_edit\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.config
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Form1.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmManage.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmMember.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmPdfExport.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.PleaseWait.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Properties.Resources.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.select_db_form.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csproj.GenerateResource.Cache
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmAgreementBorrowSet.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmLogin.resources
+C:\Users\alpha\Desktop\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.config
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.application
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.exe
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\bin\Debug\ENGINEERING_TRAINING_CENTER.pdb
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Form1.resources
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmAgreementBorrowSet.resources
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmLogin.resources
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmManage.resources
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmMember.resources
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.frmPdfExport.resources
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.PleaseWait.resources
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.Properties.Resources.resources
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.select_db_form.resources
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\MASTER_SET_CONTROL.csproj.GenerateResource.Cache
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.exe.manifest
+C:\Users\alpha\Desktop\DB\MASTER_SET_CONTROL_fullversion\MASTER_SET_CONTROL\obj\x86\Debug\ENGINEERING_TRAINING_CENTER.application

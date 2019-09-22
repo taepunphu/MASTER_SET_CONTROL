@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\43.72.52.12\c%24\AppServ\www\Project_publish\Master_Set_Control\|\\43.72.52.12\c%24\AppServ\www\Project_publish\Master_Set_Control_Spacial\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://43.72.52.12/project_publish/Master_Set_Control/|http://43.72.52.12/project_publish/Master_Set_Control_Spacial/|http://43.72.52.12/project_publish/AC_LENS_PRINT_QA/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
